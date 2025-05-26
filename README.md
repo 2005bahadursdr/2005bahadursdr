@@ -1,4 +1,4 @@
- 👋 Hi, I’m Lal Bahadur Sahani
+ 👋 Hi, I’m Lal Bahadur Sahani.
  
 👀 I’m interested in Web Development and Android Development
 
