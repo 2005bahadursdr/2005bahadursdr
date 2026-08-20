@@ -23,219 +23,120 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ======================= HEADER ======================= -->
 
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lal%20Bahadur%20Sahani&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlign=50&descAlignY=58&animation=fadeIn&fontSize=42" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lal%20Bahadur%20Sahani&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&animation=fadeIn&fontSize=40" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/2005bahadursdr">
-    <img src="https://komarev.com/ghpvc/?username=2005bahadursdr&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/2005bahadursdr?tab=followers">
-    <img src="https://img.shields.io/github/followers/2005bahadursdr?label=Followers&style=for-the-badge" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lal+Bahadur+Sahani+%F0%9F%91%8B;B.Tech+IT+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-<!-- ======================= TYPING ======================= -->
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Full-Stack+Developer;AI%2FML+Enthusiast;React.js+%7C+Node.js+%7C+Python;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" />
-</h3>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2005bahadursdr&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **Lal Bahadur Sahani**, a B.Tech Information Technology student at **Rajkiya Engineering College, Azamgarh**.
+🎓 I'm currently pursuing **B.Tech in Information Technology** at  
+**Rajkiya Engineering College, Azamgarh**.
 
-I'm passionate about building modern web applications, exploring Artificial Intelligence and Machine Learning, solving programming problems, and turning ideas into practical software solutions.
+💻 I'm passionate about **Full-Stack Web Development, AI/ML, and Software Engineering**.
 
-```javascript
-const lalBahadur = {
-    education: "B.Tech Information Technology",
-    college: "Rajkiya Engineering College, Azamgarh",
-    graduation: 2027,
+🌱 Currently learning and working with:
 
-    interests: [
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Problem Solving",
-        "Open Source"
-    ],
+- ⚛️ React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🐍 Python
+- 🤖 Machine Learning
+- 🔥 TensorFlow & Scikit-learn
+- 🚀 Flask & FastAPI
 
-    currentFocus: [
-        "React.js",
-        "Node.js",
-        "Python",
-        "Machine Learning",
-        "AI-powered Applications"
-    ],
+🏆 **GATE 2026 Qualified**
 
-    achievements: [
-        "GATE 2026 Qualified",
-        "GeeksforGeeks Campus Mantri",
-        "AI/ML Internship"
-    ],
+👨‍💻 **GeeksforGeeks Campus Mantri**
 
-    motto: "Code • Learn • Build • Improve 🚀"
-};
-```
+💼 **AI/ML Internship Experience**
+
+🧠 I enjoy solving coding problems, building practical projects, and learning new technologies.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🛠️ Tech Stack
 
-* 🔭 Building **full-stack web applications**
-* 🤖 Exploring **AI/ML-powered applications**
-* 🌱 Improving my **React.js + Node.js + Python** skills
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🔐 Exploring **privacy-preserving AI and Federated Learning**
-* 🤝 Looking for opportunities to contribute to **open-source projects**
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-**Libraries & Frameworks**
-
-`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Keras` • `TensorFlow` • `PyTorch`
-
-### 🛠️ Tools & Platforms
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Projects
 
 ### 🎨 Matty AI
+**Online Graphic Design Tool**
 
-**Online Graphic Design Platform**
+> Full-stack graphic design platform built using modern web technologies.
 
-A full-stack web application for creating and customizing visual designs.
+**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
-**Tech:**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
+---
 
 ### 🔢 Handwritten Digit Recognizer
 
-**AI/ML Application**
+> Machine learning application for recognizing handwritten digits using MNIST.
 
-Machine learning application that recognizes handwritten digits using the MNIST dataset.
-
-**Tech:**
-
-`Python` `TensorFlow` `Keras` `Flask`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💳 Credit Card Fraud Detection
-
-**Machine Learning Project**
-
-Detects potentially fraudulent transactions using machine learning and anomaly detection techniques.
-
-**Tech:**
-
-`Python` `Scikit-learn` `XGBoost` `Pandas`
-
-</td>
-
-<td width="50%">
-
-### 🎬 Movie Recommendation System
-
-**Recommendation Engine**
-
-A recommendation system that suggests movies based on user preferences and similarity.
-
-**Tech:**
-
-`Python` `Flask` `TMDB API` `Machine Learning`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏙️ Smart City Sensor Analysis
-
-**Data Science Project**
-
-Analyzes environmental sensor data using clustering, PCA, and geospatial visualization.
-
-**Tech:**
-
-`Python` `Pandas` `Scikit-learn` `GeoPandas` `Folium`
-
-</td>
-
-<td width="50%">
-
-### 🏥 Privacy-Preserving Healthcare AI
-
-**Research Project**
-
-Exploring Federated Learning, blockchain, ABDM and ABHA-oriented healthcare data privacy.
-
-**Tech:**
-
-`Python` `Federated Learning` `Blockchain` `FastAPI`
-
-</td>
-</tr>
-</table>
+**Tech:** Python • TensorFlow • Keras • Scikit-learn • Flask
 
 ---
 
-# 🏆 Achievements
+### 💳 Credit Card Fraud Detection
+
+> Machine learning system for detecting potentially fraudulent transactions.
+
+**Tech:** Python • Pandas • Scikit-learn • XGBoost
+
+---
+
+### 🎬 Movie Recommendation System
+
+> Recommendation system that suggests movies based on user preferences.
+
+**Tech:** Python • Flask • Machine Learning • TMDB API
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
 
@@ -251,7 +152,7 @@ Exploring Federated Learning, blockchain, ABDM and ABHA-oriented healthcare data
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -263,135 +164,42 @@ Exploring Federated Learning, blockchain, ABDM and ABHA-oriented healthcare data
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=2005bahadursdr&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=2005bahadursdr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=2005bahadursdr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=2005bahadursdr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2005bahadursdr&theme=tokyo-night&hide_border=true&area=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2005bahadursdr&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/2005bahadursdr/2005bahadursdr/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-# 💡 Problem Solving
-
-I enjoy solving programming problems and improving my understanding of:
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management
-* Operating Systems
-* Computer Networks
-* Problem Solving & Logical Reasoning
-
----
-
-# 🎯 2026–27 Goals
+## 🧠 Currently Learning
 
 ```text
-☑ Improve Full-Stack Development
-☑ Build production-ready applications
-☑ Strengthen AI/ML fundamentals
-☑ Solve more DSA problems
-☑ Contribute to Open Source
-☑ Learn System Design
-☑ Build impactful final-year projects
-☑ Secure a Software Engineering role
-```
-
----
-
-# 🤝 Open to Collaboration
-
-I'm interested in collaborating on:
-
-🌐 Full-Stack Applications
-🤖 AI/ML Projects
-🔬 Research Projects
-🔓 Open Source
-📊 Data Science Projects
-🚀 Startup Ideas
-💡 Innovative Student Projects
-
-If you're building something interesting, let's connect!
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:bahadursdr2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/lal-bahadur-sahani-83a9302b0/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/2005bahadursdr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive) {
-    learn();
-    code();
-    build();
-    solveProblems();
-    repeat();
-}
-```
-
----
-
-<h3 align="center">
-
-🚀 **Code. Learn. Build. Improve.**
-
-</h3>
-
-<p align="center">
-  ⭐ If you find my repositories useful, consider giving them a star!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
-</p>
+React.js
+   ↓
+Node.js + Express
+   ↓
+MongoDB + SQL
+   ↓
+Python + Machine Learning
+   ↓
+AI-Powered Web Applications
+   ↓
+Scalable Software Systems 🚀
 
